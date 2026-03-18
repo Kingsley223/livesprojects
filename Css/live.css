@@ -298,9 +298,9 @@ h1 {
     height: 350px;
 }
 @media (max-width: 320px) {
-    .nav-left a {
-        display: none;
-    }
+   .nav-left li a{
+    display: none;
+   }
 
     .nav-icons i {
         display: none;
