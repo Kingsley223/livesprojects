@@ -287,6 +287,16 @@ h1 {
     padding-top: 20px;
 }
 
+.img4{
+    height: 350px;
+    border-radius: 22px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.img3{
+    height: 350px;
+}
 @media (max-width: 320px) {
     .nav-left a {
         display: none;
@@ -369,4 +379,27 @@ h1 {
         width: 80px;
     }
 
+    .img2{
+        display: none;
+    }
+
+    .img4{
+        display: none;
+    }
+
+    .product-infos h4 {
+        display: none;
+    }
+
+    .prices{
+        display: none;
+    }
+
+    .badges2{
+        display: none;
+    }
+    .starss{
+        display: none;
+    }
 }
+
