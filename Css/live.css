@@ -382,16 +382,17 @@ h1 {
         height: 70px;
         width: 80px;
     }
-/* 
-    .img2{
+
+    /* .img2{
         display: none;
-    }
+    } */
 
     .img4{
-        display: none;
+          height: 70px;
+          width: 80px;
     }
 
-    .product-infos h4 {
+    /* .product-infos h4 {
         display: none;
     }
 
