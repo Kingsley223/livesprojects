@@ -297,7 +297,7 @@ h1 {
 .img3{
     height: 350px;
 }
-@media (max-width: 320px) {
+@media (max-width:600px) {
    .nav-left li a{
     display: none;
    }
