@@ -298,8 +298,12 @@ h1 {
     height: 350px;
 }
 @media (max-width:600px) {
-   .nav-left li a{
+   .nav-left a{
     display: none;
+   }
+
+   .nav-left i{
+         display: none;
    }
 
     .nav-icons i {
